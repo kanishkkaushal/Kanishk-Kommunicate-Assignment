@@ -1,0 +1,14 @@
+Question 4:
+
+    I would like to highlight the portfolio app which was developed with help of flutter framework,
+    Adobe photoshop and Adobe XD. I tried to make the UI look as elegant as it could be by adding features like
+    dark and light mode and animations.The app basically contains the work I have done so far , my skills and various
+    sources to get in touch with me.
+ 
+
+Question 5:
+    
+    I would choose my classmates Vaachaspati Bonala and Ramansh Sharma as my partners because of their following charecteristics:
+    Vaachaspati : Very patient and knowledgable person which can help to make tough decisions and give proper guidance.
+    Ramansh : Very high technical knowledge and an amazing speaker , these charecteristics wil not only help us in the technical domain but also in the forefront of the company.
+    
